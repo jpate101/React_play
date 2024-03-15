@@ -1,0 +1,41 @@
+{
+    "contributor": [
+      {
+        "name": "John Doe",
+        "description": "",
+        "email": "placeholder@gmail.com",
+        "linkin": "https://www.linkedin.com/feed/",
+        "facebook": "https://www.linkedin.com/feed/",
+        "phoneNumber": "0123 456 788",
+        "cardImage": "https://images.unsplash.com/photo-1625772452859-1c03d5bf1137?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHByb2R1Y3RzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "name": "John Doe2",
+        "description": "",
+        "email": "placeholder@gmail.com",
+        "linkin": "",
+        "facebook": "",
+        "phoneNumber": "0123 456 788",
+        "cardImage": "https://images.unsplash.com/photo-1625772452859-1c03d5bf1137?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHByb2R1Y3RzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "name": "John Doe3",
+        "description": "",
+        "email": "placeholder@gmail.com",
+        "linkin": "placeholder@gmail.com",
+        "facebook": "https://www.linkedin.com/feed/",
+        "phoneNumber": "0123 456 788",
+        "cardImage": "https://images.unsplash.com/photo-1625772452859-1c03d5bf1137?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHByb2R1Y3RzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "name": "John Doe4",
+        "description": "",
+        "email": "placeholder@gmail.com",
+        "linkin": "placeholder@gmail.com",
+        "facebook": "https://www.linkedin.com/feed/",
+        "phoneNumber": "0123 456 788",
+        "cardImage": ""
+      }
+      
+    ]
+  }

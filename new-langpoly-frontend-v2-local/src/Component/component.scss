@@ -1,0 +1,62 @@
+// This is header scss
+.header-container {
+    background-color: #121212;
+    height: 50px;
+    color:#fff;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+    .header-btn {
+        background-color: #fff;
+        color: #383838;
+        &:hover {
+            background-color: #fff;
+        }
+    }
+    .header-btn-container {
+        display: flex;
+        gap: 5px;
+    }
+}
+
+.table-body {
+    padding: 15px;
+    .table-line {
+        display: flex;
+    }
+
+    .button-container {
+        display: flex;
+        justify-content: center;
+    }
+    .tb-cell-filename {
+        text-align: center;
+    }
+    .table-container {
+        // overflow: scroll;
+        // border: 1px solid #000;
+        // height: 80vh;
+    }
+}
+
+.dialog-text-content {
+        height: 150px;
+        width: 100%;
+        font-size: 20px;
+}
+
+// This is footer scss
+.main-footer {
+    color: white;
+    background-color: black;
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    
+}
+
+ul {
+    list-style-type: none;
+  }

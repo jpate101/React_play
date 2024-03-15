@@ -1,0 +1,27 @@
+{
+  "short_name": "LangPoly",
+  "name": "DigiGround-LangPoly",
+  "description":"Langpoly can let you modify i18n json file online easily. Here you can upload i18n json file and download json file you have modified.",
+  "version":1.0,
+  "icons": [
+    {
+      "src": "LangPoly.svg",
+      "sizes": "64x64 32x32 24x24 16x16"
+    },
+    {
+      "src": "langpoly144.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose":"any"
+    },
+    {
+      "src": "LangPoly512.png",
+      "type": "png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
